@@ -13,7 +13,7 @@ The IAB Tech Lab spearheads the development of technical standards, creates and 
 
 
 ### License
-The Digital Advertising Industry Requirements document is licensed under a Creative Commons Attribution 3.0 License. To view a copy of this license, visit [creativecommons.org/licenses/by/3.0/](creativecommons.org/licenses/by/3.0/) or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
+The Digital Advertising Industry Requirements document is licensed under a Creative Commons Attribution 3.0 License. To view a copy of this license, visit creativecommons.org/licenses/by/3.0/ or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
 
 ### Disclaimer
 
