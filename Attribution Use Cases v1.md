@@ -17,7 +17,7 @@ This document is developed by [IAB Tech Lab’s Private Ad Systems Task Force](h
 
 ### License
 
-The Digital Advertising Industry Requirements document is licensed under a Creative Commons Attribution 3.0 License. To view a copy of this license, visit [creativecommons.org/licenses/by/3.0/](creativecommons.org/licenses/by/3.0/) or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
+The Digital Advertising Industry Requirements document is licensed under a Creative Commons Attribution 3.0 License. To view a copy of this license, visit creativecommons.org/licenses/by/3.0/ or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
 
 ### IAB Tech Lab Leads
 
@@ -37,20 +37,20 @@ THE STANDARDS, THE SPECIFICATIONS, THE MEASUREMENT GUIDELINES, AND ANY OTHER MAT
 
 ## Table of Contents
 
-## [About Attribution Use Cases](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#about-attribution-use-cases)
- - [License](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#license)
- - [IAB Tech Lab Leads](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#iab-tech-lab-leads)
- - [About IAB Tech Lab](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#about-iab-tech-lab)
- - [Disclaimer](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#disclaimer)
-## [Table of Contents](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#table-of-contents)
-## [Overview](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#overview)
- - [Reporting Dimensions](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#reporting-dimensions)
- - [Event-Level Processing](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#event-level-processing)
- - [Complex Attribution Models](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#complex-attribution-models)
-    - [Multi-touch Attribution](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#multi-touch-attribution)
-    - [Measure Multiple Conversions from Multiple Ads](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#measure-multiple-conversions-from-multiple-ads)
- - [Measure IVT Conversions](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#measure-ivt-conversions)
- - [App-to-Web / Web-to-App Attributions](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/new/main#app-to-web--web-to-app-attributions)
+- [About Attribution Use Cases](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#about-attribution-use-cases)
+  - [License](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#license)
+  - [IAB Tech Lab Leads](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#iab-tech-lab-leads)
+  - [About IAB Tech Lab](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#about-iab-tech-lab)
+  - [Disclaimer](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#disclaimer)
+- [Table of Contents](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#table-of-contents)
+- [Overview](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#overview-1)
+  - [Reporting Dimensions](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#reporting-dimensions)
+  - [Event-Level Processing](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#event-level-processing)
+  - [Complex Attribution Models](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#complex-attribution-models)
+    - [Multi-touch Attribution](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#multi-touch-attribution)
+    - [Measure Multiple Conversions from Multiple Ads](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#measure-multiple-conversions-from-multiple-ads)
+  - [Measure IVT Conversions](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#measure-ivt-conversions)
+  - [App-to-Web / Web-to-App Attributions](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases/blob/main/Attribution%20Use%20Cases%20v1.md#app-to-web--web-to-app-attributions)
 
 
 ## Overview
