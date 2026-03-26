@@ -21,7 +21,7 @@ The Digital Advertising Industry Requirements document is licensed under a Creat
 
 ### IAB Tech Lab Leads
 
-Miguel Morales, Director Addressability & Privacy Enhancing Technologies (PETs)
+Rowena Lam, Senior Director, Privacy & Data, IAB Tech Lab
 Shailley Singh, EVP Product & COO, IAB Tech Lab
 
 
